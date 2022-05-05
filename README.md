@@ -8,7 +8,7 @@ My experience is 2 years of coding in HTML, CSS & JavaScript. I make adaptive, r
 
 * 🌍  I'm based in Chelyabinsk, Russia
 * 🖥️  See my portfolio at [https://github.com/lapaduga](http://github.com/lapaduga)
-* ✉️  You can contact me at [https://t.me/lapaduga](mailto:https://t.me/lapaduga)
+* ✉️  You can contact me at [https://t.me/lapaduga](https://t.me/lapaduga)
 * 🧠  I'm learning ReactJS
 * 🤝  I'm open to collaborating on Projects based on React
 * ⚡  I'm looking forward to chat up!
