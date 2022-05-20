@@ -4,7 +4,7 @@ Hi 👋 My name is Denis Kotov
 Frontend Developer
 ------------------
 
-My experience is 2 years of coding in HTML, CSS & JavaScript. I make adaptive, responsive, valid, semantic and cross-browser layouts using Flexbox & Grid modules. I use BEM naming for the CSS-classes. Also work with SCSS preprocessor & Pug template engine. Gulp & Webpack as task manager & module bundler. I know jQuery but mostly work with vanilla JS. Apparently I know the basics of GIT. The designing software I work with are Figma and Avocode. OOP is also a part of my knowledge as well as the basics of NodeJS. And of course I speak and write in English but Russian is my native language. I have several certificates that prove that I passed courses in JavaScript (JS basics, OOP in JS, Functions in JS, array methods in JS and NodeJS) which I can provide on demand.
+My experience is 2 years of coding in HTML, CSS & JavaScript. I make adaptive, responsive, valid, semantic and cross-browser layouts using Flexbox & Grid modules. I use BEM naming for the CSS-classes. Also work with SCSS preprocessor & Pug template engine. Gulp & Webpack as task manager & module bundler. I know jQuery but mostly work with vanilla JS. Apparently I know the basics of GIT. The designing software I work with are Figma and Avocode. OOP is also a part of my knowledge as well as the basics of NodeJS. And of course I speak and write in English but Russian is my native language. I have several certificates that prove that I passed courses in JavaScript (JS basics, OOP in JS, Functions in JS, array methods in JS, ReactJS and NodeJS) which I can provide on demand.
 
 * 🌍  I'm based in Chelyabinsk, Russia
 * 🖥️  See my portfolio at [https://github.com/lapaduga](http://github.com/lapaduga)
